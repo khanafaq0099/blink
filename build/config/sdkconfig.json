@@ -18,7 +18,7 @@
     "APP_PROJECT_VER_FROM_CONFIG": false,
     "APP_RETRIEVE_LEN_ELF_SHA": 16,
     "ASIO_SSL_SUPPORT": false,
-    "BLINK_GPIO": 2,
+    "BLINK_GPIO": 5,
     "BLINK_LED_GPIO": true,
     "BLINK_LED_RMT": false,
     "BLINK_PERIOD": 1000,
