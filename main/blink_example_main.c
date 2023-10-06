@@ -13,6 +13,8 @@
 
 static const char *TAG = "BLINK";
 
+extern const uint8_t server_cert_pem_start[] asm("_binary_ca_cert_pem_start");
+extern const uint8_t server_cert_pem_end[] asm("_binary_ca_cert_pem_end");
 // #define BLINK_GPIO CONFIG_BLINK_GPIO // 5
 #define led_pin 2
 

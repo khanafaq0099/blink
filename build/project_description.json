@@ -1,7 +1,7 @@
 {
     "version":            "1",
     "project_name":       "blink",
-    "project_version":    "v4.4.5-322-gbd5f10b1fd-dirty",
+    "project_version":    "ffe37ef-dirty",
     "project_path":       "/home/afaq/esp/esp-idf/examples/get-started/blink",
     "idf_path":           "/home/afaq/esp/esp-idf",
     "build_dir":          "/home/afaq/esp/esp-idf/examples/get-started/blink/build",
@@ -863,7 +863,7 @@
             "managed_reqs": [],
             "managed_priv_reqs": [],
             "file": "/home/afaq/esp/esp-idf/examples/get-started/blink/build/esp-idf/main/libmain.a",
-            "sources": [ "/home/afaq/esp/esp-idf/examples/get-started/blink/main/blink_example_main.c" ],
+            "sources": [ "/home/afaq/esp/esp-idf/examples/get-started/blink/main/blink_example_main.c", "/home/afaq/esp/esp-idf/examples/get-started/blink/build/ca_cert.pem.S" ],
             "include_dirs": [ "." ]
         },
         "mbedtls": {
