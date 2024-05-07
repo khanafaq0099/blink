@@ -20,14 +20,14 @@ void app_main(void)
     gpio_reset_pin(led_pin);
     gpio_set_direction(led_pin, GPIO_MODE_OUTPUT);
     gpio_set_pull_mode(led_pin, GPIO_PULLDOWN_ONLY);
-    
+
 
     while (1)
     {
         printf("led----------------\n");
         gpio_set_level(led_pin, 1);
-        vTaskDelay(1000 / portTICK_PERIOD_MS);
+        vTaskDelay(300 / portTICK_PERIOD_MS);
         gpio_set_level(led_pin, 0);
-        vTaskDelay(1000 / portTICK_PERIOD_MS);
+        vTaskDelay(300 / portTICK_PERIOD_MS);
     }
 }
