@@ -21,6 +21,7 @@ void app_main(void)
 
     while (1)
     {
+        printf("led----------------");
         gpio_set_level(led_pin, 1);
         vTaskDelay(1000 / portTICK_PERIOD_MS);
         gpio_set_level(led_pin, 0);
