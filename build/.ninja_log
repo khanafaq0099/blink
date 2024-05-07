@@ -1110,3 +1110,17 @@
 1847	2549	1715068090706729963	blinke.elf	24a3f0be88881a1f
 2549	2732	1715068090894737982	.bin_timestamp	914d0e48833ef1bc
 2732	2795	0	esp-idf/esptool_py/CMakeFiles/app_check_size	e9811b3c2826e964
+1	5733	1715075041613652281	build.ninja	536b12faa07c52d7
+21	102	1715075041805581623	esp-idf/app_update/CMakeFiles/__idf_app_update.dir/esp_app_desc.c.obj	e4ce8cad3c3afb07
+21	122	1715065375546678171	bootloader-prefix/src/bootloader-stamp/bootloader-build	8a039b46f422e77
+21	122	1715065375546678171	bootloader/bootloader.elf	8a039b46f422e77
+21	122	1715065375546678171	bootloader/bootloader.bin	8a039b46f422e77
+21	122	1715065375546678171	bootloader/bootloader.map	8a039b46f422e77
+102	126	1715075041829572790	esp-idf/app_update/libapp_update.a	2b0b01e9c354b5b2
+126	255	1715075041957525684	esp-idf/main/CMakeFiles/__idf_main.dir/blink_example_main.c.obj	e6b64b27f47fa858
+255	271	1715075041973519796	esp-idf/main/libmain.a	fb805eb894e5d4e1
+271	2488	1715075044140727570	esp-idf/esp_system/ld/sections.ld	7bfaa56577ebcdb9
+2488	2513	1715075044212701426	CMakeFiles/blinks.elf.dir/project_elf_src_esp32.c.obj	fffc661e3fe5eb5e
+2513	3392	1715075045088383476	blinks.elf	6d02fc314cada3c6
+3392	3602	1715075045304305385	.bin_timestamp	add4904679aba9a3
+3603	3667	0	esp-idf/esptool_py/CMakeFiles/app_check_size	9214074a1dffc911

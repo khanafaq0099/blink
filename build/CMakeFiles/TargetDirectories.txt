@@ -1,6 +1,4 @@
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/install/strip.dir
-/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/rebuild_cache.dir
-/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/edit_cache.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/uf2.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/install/local.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/size-components.dir
@@ -17,7 +15,9 @@
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/monitor.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/_project_elf_src.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/encrypted-flash.dir
-/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/blinke.elf.dir
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/rebuild_cache.dir
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/edit_cache.dir
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/blinks.elf.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/size-files.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/size.dir
 /home/afaq/Desktop/github_Tbtest/blink/build/esp-idf/CMakeFiles/install/strip.dir
