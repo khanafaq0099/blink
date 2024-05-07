@@ -24,10 +24,10 @@ void app_main(void)
 
     while (1)
     {
-        printf("led----------------\n");
+        printf("led\n");
         gpio_set_level(led_pin, 1);
-        vTaskDelay(300 / portTICK_PERIOD_MS);
+        vTaskDelay(100 / portTICK_PERIOD_MS);
         gpio_set_level(led_pin, 0);
-        vTaskDelay(300 / portTICK_PERIOD_MS);
+        vTaskDelay(200 / portTICK_PERIOD_MS);
     }
 }
