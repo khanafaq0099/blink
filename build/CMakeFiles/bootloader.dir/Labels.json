@@ -2,34 +2,34 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader-complete.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader-complete.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule"
 		},
 		{
-			"file" : "/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
+			"file" : "/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule"
 		}
 	],
 	"target" : 

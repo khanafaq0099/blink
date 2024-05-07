@@ -1,4 +1,4 @@
-# Install script for directory: /home/afaq/esp/esp-idf/examples/get-started/blink
+# Install script for directory: /home/afaq/Desktop/github_Tbtest/blink
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/afaq/esp/esp-idf/examples/get-started/blink/build/esp-idf/cmake_install.cmake")
+  include("/home/afaq/Desktop/github_Tbtest/blink/build/esp-idf/cmake_install.cmake")
 
 endif()
 
@@ -46,5 +46,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/afaq/esp/esp-idf/examples/get-started/blink/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/afaq/Desktop/github_Tbtest/blink/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

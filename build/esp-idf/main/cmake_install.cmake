@@ -1,4 +1,4 @@
-# Install script for directory: /home/afaq/esp/esp-idf/examples/get-started/blink/main
+# Install script for directory: /home/afaq/Desktop/github_Tbtest/blink/main
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

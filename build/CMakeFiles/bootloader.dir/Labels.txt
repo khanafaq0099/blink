@@ -1,13 +1,13 @@
 # Target labels
  bootloader
 # Source files and their labels
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/CMakeFiles/bootloader-complete.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
-/home/afaq/esp/esp-idf/examples/get-started/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/CMakeFiles/bootloader-complete.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/afaq/Desktop/github_Tbtest/blink/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

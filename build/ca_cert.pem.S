@@ -1,4 +1,4 @@
-/* * Data converted from /home/afaq/esp/esp-idf/examples/get-started/blink/server_certs/ca_cert.pem
+/* * Data converted from /home/afaq/Desktop/github_Tbtest/blink/server_certs/ca_cert.pem
  * (null byte appended)
  */
 .data
