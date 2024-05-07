@@ -162,7 +162,7 @@ CMAKE_PROJECT_DESCRIPTION:STATIC=
 CMAKE_PROJECT_HOMEPAGE_URL:STATIC=
 
 //Value Computed by CMake
-CMAKE_PROJECT_NAME:STATIC=blink
+CMAKE_PROJECT_NAME:STATIC=blinke
 
 //Path to a program.
 CMAKE_RANLIB:FILEPATH=/home/afaq/.espressif/tools/xtensa-esp32-elf/esp-2021r2-patch5-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib
@@ -510,6 +510,12 @@ blink_BINARY_DIR:STATIC=/home/afaq/Desktop/github_Tbtest/blink/build
 
 //Value Computed by CMake
 blink_SOURCE_DIR:STATIC=/home/afaq/Desktop/github_Tbtest/blink
+
+//Value Computed by CMake
+blinke_BINARY_DIR:STATIC=/home/afaq/Desktop/github_Tbtest/blink/build
+
+//Value Computed by CMake
+blinke_SOURCE_DIR:STATIC=/home/afaq/Desktop/github_Tbtest/blink
 
 //Value Computed by CMake
 esp-idf_BINARY_DIR:STATIC=/home/afaq/Desktop/github_Tbtest/blink/build/esp-idf
